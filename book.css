@@ -201,10 +201,12 @@ a{
         margin-right: auto;
     }
     nav{
-        position: fixed;
-        bottom: 20px;
-        margin-left: 30px;
         width:80%;
+        padding: 2px;
+        position: fixed;
+        bottom: 10px;
+        margin-left:50px;
+        margin-right: auto;
     }
     #hide{
         display: none;
