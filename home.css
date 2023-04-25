@@ -127,8 +127,12 @@ a{
 }
 @media screen and (max-width:767px){
     nav{
-        width:90%;
+        width:80%;
         padding: 2px;
+        position: fixed;
+        bottom: 10px;
+        margin-left:50px;
+        margin-right: auto;
     }
     #hide{
         display: none;
