@@ -193,10 +193,11 @@ a{
         display: none;
     }
     nav{
+        width:80%;
+        padding: 2px;
         position: fixed;
         bottom: 10px;
-        width:80%;
-        margin-left: 30px;
+        margin-left:50px;
         margin-right: auto;
     }
     .second{
